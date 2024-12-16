@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTM-Avo
+FamilyName:UTM Avo
+StyleName:Regular
+FullName:UTM Avo
+MenuName:UTM Avo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\LINH\CTy VES\Truc Viet\Font\UTM Avo.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39308
+FileModTime:1248943622
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UTM Avo
+NameArray:0,Win,1,UTM Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTMAvoBold
+FamilyName:UTM Avo
+StyleName:Bold
+FullName:UTMAvoBold
+MenuName:UTM Avo
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\LINH\CTy VES\Truc Viet\Font\UTM AvoBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39364
+FileModTime:1289323252
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UTMAvoBold
+NameArray:0,Win,1,UTM Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTMAvo-BoldItalic
+FamilyName:UTM Avo
+StyleName:Bold Italic
+FullName:UTM Avo Bold Italic
+MenuName:UTM Avo
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\LINH\CTy VES\Truc Viet\Font\UTM AvoBold_Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41260
+FileModTime:1289323388
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,UTM Avo Bold Italic
+NameArray:0,Win,1,UTM Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTMAvo-Italic
+FamilyName:UTM Avo
+StyleName:Italic
+FullName:UTM Avo Italic
+MenuName:UTM Avo
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\LINH\CTy VES\Truc Viet\Font\UTM AvoItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41188
+FileModTime:1248950658
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,UTM Avo Italic
+NameArray:0,Win,1,UTM Avo
+%EndFont
+
